@@ -15,8 +15,8 @@ c.	Selanjutnya User Login ke Aplikasi dengan meng-klik tombol Login yang terdapa
 User telah login sebagai UM_USER.
 2.	Menu Permintaan Updaet Data Kepegawaian  
 a.	Setelah berhasil login, maka user dapat mengirimkan permintaan update data kepegawaian melalui panel menu sebagai berikut :  
-![tes](src/ptudk_update_data_kepeg.jpg)  
+![tes](src/ptudk_update_data_kepeg.JPG)  
 
 b.	User kemudian mengetikkan data NIP pegawai yang akan diupdate pada form yang ada pada menu tersebut dan klik “kirim” :  
-![tes](src/ptudk_update_data_kepeg_2.jpg)
+![tes](src/ptudk_update_data_kepeg_2.JPG)
  
