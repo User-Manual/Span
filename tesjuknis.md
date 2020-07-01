@@ -3,8 +3,8 @@ Petunjuk Teknis Permintaan Update Data Kepegawaian Melalui Aplikasi OMSPAN
 1.	Login
 a.	Buka browser dan masuk ke alamat web OMSPAN : 
 	https://spanint.kemenkeu.go.id/
-  ![tes](src/installjava.jpg)
-b.	User kemudian masuk menggunakan user dan password OMSPAN level KPPN untuk mengakses halaman utama OMSPAN. Kemudian klik Menu  Referensi  Pengelola Data Referensi dan Pengguna Sistem.
+  ![tes](src/installjava.jpg)  
+  b.	User kemudian masuk menggunakan user dan password OMSPAN level KPPN untuk mengakses halaman utama OMSPAN. Kemudian klik Menu  Referensi  Pengelola Data Referensi dan Pengguna Sistem.
 
  
 
