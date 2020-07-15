@@ -18,6 +18,6 @@ User telah login sebagai UM_USER.
 ![tes](src/ptudk_update_data_kepeg.JPG)  
 
 
-b.	User kemudian mengetikkan data NIP pegawai yang akan diupdate pada form yang ada pada menu tersebut dan klik “kirim” :  
+b.	Klik “kirim” :  
 ![tes](src/ptudk_update_data_kepeg_2.JPG)
  
