@@ -5,6 +5,6 @@
 2.	Klik menu Permintaan Update Data Kepegawaian    
 ![tes](src/ptudk_update_data_kepeg.JPG)  
 
-b.	Klik “kirim” :  
+3.	Klik “kirim” :  
 ![tes](src/ptudk_update_data_kepeg_2.JPG)
  
