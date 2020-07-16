@@ -6,4 +6,4 @@
  3. Klik "kirim"
     ![um017-submit](um017-submit.jpg)  
  4. Tekan tombol refresh pada browser sampai dengan status request berubah menjadi "C C"  
-    ![um017-hasil](um017_hasil.JPG)
+    ![um017-hasil](um017_hasil.jpg)
